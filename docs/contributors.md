@@ -1,4 +1,6 @@
 # Project Contributors
 *List your contributors and be explicit about the work and expertise (e.g. experimental design, statistical analysis, programming, manuscript writing, etc.) each person or organization provided.  Also, don't forget to acknowledge any funding.
 
-- Bonus points:  include each contributors [ORCID](https://orcid.org/):star::star:
+- Bonus points:  include each contributors [ORCID](https://orcid.org/)
+- [marijane](https://github.com/marijane) 
+([ORCID](https://orcid.org/0000-0001-5059-4132))
